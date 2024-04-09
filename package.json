@@ -2,10 +2,10 @@
   "name": "team-05-js-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://kaa1203.github.io/team-05-js-team-project",
+  "homepage": "https://Dindin4987.github.io/my-js-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-05-js-team-project/"
+    "build": "parcel build src/*.html --public-url /my-js-project/"
   },
   "repository": {
     "type": "git",
